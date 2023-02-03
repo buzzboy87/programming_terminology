@@ -5,18 +5,18 @@
 
 **Instructions:** Use the word bank to match the vocabulary words with the appropriate number in the above code segment. 
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
+1.Iteration
+2.casting
+3.booleon operator
+4.selection
+5.comparison operator
+6.Annotation
+7.Assignment Operator
+8.list
+9.Arithmatic Operator
+10.variable
+11.String
+12.string concation
 
 **Word Bank**
 - variable
